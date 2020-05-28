@@ -1,0 +1,204 @@
+#EXTM3U
+
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",WARNAER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX FILM MOVIEAS
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HISTORY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR MOVIES
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",DOCUBOX
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX FAMILY MOVIE
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX MOVIE
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=7890B1F6AC797C6402FD196F3C19DBBE48B2A0E2&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Star Movies AR
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?rizkizakaria-Star-Movies-join-telegram=@iptvondemand
+#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Star World AR
+http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?rizkizakaria-Star-World-join-telegram=@iptvondemand
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CELESTIAL MOVIES
+http://210.210.155.35/session/a715f4e6-9b45-11e9-9bf9-852092ef5539/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",K DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLUE ANT EXTREME
+http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Blue Ant Entertainment
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",SINEMA INDONESIA
+http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",cinema world
+http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HI TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HITS
+http://45.126.83.51/uq2663/h/h37/index2.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CINEMA WORLD MALAYSIA
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",hbo family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX FAMILY
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FILM BOX ARTHOUSE
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",QYU HD
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MOVIE NOW HD
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",SONY MAX
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLACK MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",SONY MAX 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",SONY MAX
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CYNE STAR PREMIERE 1
+http://cableserver1.cableguy.pro:82/live?cId=383&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FILM BOX
+http://cableserver1.cableguy.pro:82/live?cId=431&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MAX SELECT HD
+http://cableserver1.cableguy.pro:82/live?cId=477&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MOVIE NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",B4U MOVIE
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MOVIES NOW
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",MGM SCIFI
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",IMC
+https://cdnjt22.useetv.com/joss/14/imc/chunklist_w97180695_b684100_sleng_23950.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",ZEE BIOSKOP
+https://cdnkbl1.useetv.com/joss/14/zbioskop/chunklist_w2056934236_b684100_sleng_22256.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FLIK
+https://cdnkbl1.useetv.com/joss/15/flik/chunklist_w1063102987_b894100_sleng_308143.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",GALAXY
+https://cdnjt22.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BIOSKOP INDONESIA
+https://cdnkbl1.useetv.com/joss/14/bioskopindonesia/chunklist_w1631731122_b684100_sleng_122452.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Thrill
+https://cdnkbl1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CELESTIAL MOVIE
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8?enc=rPZHw3x-Qp4eGuN8jSWoKg&exp=1589648375
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CHINESE DRAMA
+https://cdnbdsa1.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",LIFE TIME
+https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_w98933788_b684100_sleng_275119.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CELESTIAL MOVIE
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w550139725_b684100_sleng_stgiptv.m3u8?enc=rPZHw3x-Qp4eGuN8jSWoKg&exp=1589648375
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CHINESE DRAMA
+https://cdnbdsa1.useetv.com/joss/14/chinesedrama/chunklist_w73315374_b684100_sleng_120.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLUEANT ENTERTAIMEN
+https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_275116.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLUE ANT
+https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1137014543_b684100_sleng_stgiptv.m3u8?enc=1oPpDDzeKY6Jv20Ly1ZMDQ&exp=1589709634
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLUEAN TEXTREME
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_sleng_stgiptv.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",BLUEANT EXTRIME
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_sleng_275111.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",WARNER WB
+https://edgejt7.useetv.com/joss/15/warner/chunklist_w509483601_b894100_sleng_307702.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",KIX
+https://edgejt7.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO
+http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO
+http://www.stgiptv.online/session_dyos/dyos/server/hbohd.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO SINGATURE
+http://www.stgiptv.online/session_dyos/dyos/server/sighd.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO HITS
+http://www.stgiptv.online/session_dyos/dyos/server/hitshd.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",CINEMAX
+http://www.stgiptv.online/session_dyos/dyos/server/maxhd.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO RED
+http://www.stgiptv.online/session_dyos/dyos/server/red.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Fox Movies Premium
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",Fox Movies 2
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO Family 2
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pas
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX FILM MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",STAR MOVIES HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",DOCUBOX
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=49DA2BA4E5AD744321A0A9A18B14BBD86901A8A2&profile=pass
+#EXTINF:-1   tvg-logo="https://1.bp.blogspot.com/-1HTduvefltk/Xsk3seFI5cI/AAAAAAAAACA/d53rx9SRhlsiC935WP6qC26FGeeKuRMoACK4BGAsYHg/IMG-20200523-WA0010.jpg" group-title="MOVIES",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
